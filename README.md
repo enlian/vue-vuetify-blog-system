@@ -3,7 +3,7 @@
 **此项目已完成从 Vue2 到 Vue3 的重构。**
 
 这是一个基于 `Vue3` 和 `Vuetify` 的内容管理系统。用户可以查看文章列表、查看文章详情、添加/编辑/删除文章，并将文章分配到不同的分类中。同时支持管理员管理与权限分配功能。  
-<br/><br/>
+
 Demo: <a href="https://vue-vuetify-blog-system.vercel.app/">https://vue-vuetify-blog-system.vercel.app</a>
 
 ## 特点
